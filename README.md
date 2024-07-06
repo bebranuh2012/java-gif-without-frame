@@ -1,2 +1,2 @@
 # java-gif-without-frame
-This repository is just a dancing anime girl on your desktop
+This repository is just a dancing anime girl on your desktop, made on Java
